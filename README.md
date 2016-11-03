@@ -1,2 +1,3 @@
 # hello-world
-just another re
+just another repository
+My name is Akan, 
